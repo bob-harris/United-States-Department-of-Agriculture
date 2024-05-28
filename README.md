@@ -19,3 +19,7 @@ Your manager has requested that you generate insights from this data to aid in f
 Objectives:
 
 Assess state-by-state production for each commodity.
+
+Identify trends or anomalies.
+
+Offer data-backed suggestions for areas that may need more attention.
