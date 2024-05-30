@@ -40,7 +40,7 @@ As a Data Scientist at the USDA, you have been tracking the production of variou
 - [Tableau Dashboard 1] (https://public.tableau.com/views/USDAviz_part1/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 - [Tableau Dashboard 2] (https://public.tableau.com/views/USDAviz_part2/Dashboard2?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
-- [PowerPoint Presentation](USDA presentation.pptx)
+- [PowerPoint Presentation](https://github.com/bob-harris/United-States-Department-of-Agriculture/blob/main/USDA%20presentation.pptx)
 
 ## Findings
 - **Milk Production**: Significant decrease in 2023 compared to 2022.
