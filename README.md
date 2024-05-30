@@ -1,4 +1,4 @@
-This is the final project of the SQL for Data Science by the University Of California Davis
+This is the final project of the SQL for Data Science course by the University Of California, Davis
 
 Scenario: 
 
